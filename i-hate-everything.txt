@@ -1,0 +1,55 @@
+<h4>Ethann Luts</h4>
+<h4>Linux SysAdmin/Cloud/Operations</h4>
+<h4>619-876-7953</h4>
+<h4>eluts15dev@gmail.com</h4>
+
+<h4>TECHNICAL SKILLS</h4>
+    <pre>
+    CLOUD TECHNOLOGIES
+    * Amazon Web Services (AWS), EC2, Route53, Elastic Load Balancers
+    * Google Cloud Platform
+    * Technologies such as Terraform to manage infrastructure resources
+    </pre>
+
+    VERSION CONTROL & DEVELOPMENT ENVIRONMENTS
+    * Git, Bitbucket, Sourcetree, Atlassian Suite
+    * Behavior-driven development, unit testing
+
+    GENERAL LANGUAGES, FRAMEWORKS AND WEB TECHNOLOGIES
+    * General Program Languages: C#, Go, Java
+    * Web Technologies: AngularJS, NodeJS, Vanilla Javascript, Web APIs, .NET MVC, REST, JSON, XML
+    * SQL, NoSQL, SSMS, Firebase, T-SQL
+
+    SCRIPTING & DEPLOYMENT TECHNOLOGIES
+    * bash, python, go
+    * Unix and Linux
+    * Virtualization/Containerization: VirtualBox, VMWare, Docker, Kubernetes
+   
+    NETWORKING
+    * Protocols: HTTP, TLS/SSL, SMTP, IMAP, SSH, TCP, UDP, IP
+    * Knowledge of network sockets
+    * Knowledge of setting up DNS on Linux
+    
+PROFESSIONAL/LEARNING PROJECTS
+    NGINX MONITORING WITH ZABBIX
+    Description: Monitoring AWS EC2 instances with a monitoring software called zabbix.  This involved configuring three LAMP stacks on EC2 and then configuring Zabbix gather
+    valuable data on NGINX.
+
+    GOOGLE CLOUD PLATFORM CI/CD PIPELINE
+    Description: Setting up a delivery pipeline using GCP, Go, Docker, and Kubernetes.  The purpose of this was to learn more about CI/CD and use one of the major cloud platforms.  
+    I was able to use more Go which I always find a blast to work with.  Two pipelines were set up, one for QA, and the other for production.  Another pipeline could have easily 
+    been integrated for staging.
+    This was an excellent learning experience for understanding more about Google's cloud services such as Google Cloud Compute and container orchastration tools such as Kubernetes.
+
+    SETTING DNS FROM SCRATCH
+    Description: The goal of this project was to learn more about networking and Linux systems.  I used basic installations of
+    CentOS 7 Server for both the Master and the Slave servers.  I chose CentOS because it is very close to RedHat and something that would be
+    used in an enterprise setting. Both servers were run via instances in Virtualbox.
+
+    APPARENT SYSTEMS INC.
+    Description: Set up multiplayer in Unity for a game to be released on iOS and WebGL.
+    There were two solutions, one being configuring Unity's built in multiplayer, and the other being an implementation using TCP/IP sockets and
+    C#.  I chose to implement the second to be more portable, not tied specifically to unity.
+
+    SYSTEM ADMINSTRATION
+    Description: Management of User Accounts on Linux - Adding new users, deleting users, and locking user accounts on Linux. 
